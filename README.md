@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @The javascript newbie
-- 👀 I’m interested in ... programming/coding and javascript
+- 👀 I’m interested in ... programming/coding and javascript, python, c++ and possibly c#
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects but im most interested in making viruses(prank viruses only) and games
 - 📫 How to reach me ...
 
 <!---
